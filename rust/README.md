@@ -1,0 +1,32 @@
+|date|Session|topics|Recording Link|
+|---|---|---|---|
+|April 25 2024|Lecture 1|		|https://us06web.zoom.us/rec/share/z6adsx3YHNQUjLclLTSL0ck9Ht90awV4ZxYKrCMeqLu-NuvR_0P2OHXQwlNNp6i1.mTJWkL1jllghH5Zl|
+|April 26 2024|Lecture 2|		|https://us06web.zoom.us/rec/share/rz2K_521suRaT4YleiGhKv5PGLu8ttOy906PRCazAwE1ka12AVF4Q-AIb9T-iIcx.Vf4uEiiNUn0hVBI6|
+|May 3 2024|Lecture 3|		|https://us06web.zoom.us/rec/share/Sl_mgjS-PiANotbVBDyEljUR0uro3MzCqnmcuYlYtvKrC0f-BKuRLC-vlUomrq7u.WOjPHxVPN-S_itdO|
+|May 4 2024|Lecture 4|		|https://us06web.zoom.us/rec/share/4hsCWGyIsLCUgu9p1Vn8Y5AO4YBXX2pGy1Ezo5gTYLx7vA1OrsE0tGx_5rxps0LO.b5Yqr81u6NfpWxYZ|
+|May 9 2024|Lecture 5|		|https://us06web.zoom.us/rec/share/lzX4bcakKr5jR2wVa2rSccP_jKJWe0MK5iTd6qSbbcIzOcqs6paFbWF6f1682SgR.O5c5UmZUXikGHcUJ|
+|May 10 2024|Lecture 6|		|https://us06web.zoom.us/rec/share/S5iMkGVYM3km_0HBpOPPNVneeplThDRFrVorcTfFGAUqoxJ2RD4X6Qz7KKi89krD.reoXed65SqKLwhiB|
+|May 16 2024|Lecture 7|		|https://us06web.zoom.us/rec/share/0Ch5_e9UU8Ya_ZxBU9j95tV8GtMVaKhfoHjz3A3_KexSYvdT4E1fC974DssaIKva.PoPFup6mCORWu3_s|
+|May 17 2024|Lecture 8|		|https://us06web.zoom.us/rec/share/x7Wf7sbxX19LKMVjikrLQ1t8DyhS1eRJqtGgyso5Uvrzs1cM0ya18pGkipckKjjd.eQSZ9VKDSnXJ9vFO|
+|May 18 2024|Lecture 9|		|https://us06web.zoom.us/rec/share/9nZh3McdgEVc4jWkHIMtK4i8X2Gg00VCllyXMcqN0sAqKKeGlILlW9ClzZeCkWSp.H6tISX2ecTQYBMsa|
+|May 23 2024|Lecture 10|		|https://us06web.zoom.us/rec/share/l-rgk18KoJIh2F_IrO-gY99k9TzX1QbGo8AIn6z2xNE7IGTpZbCAVOkZ7X05XCnF.qaAP7s3WGeOyjnm3|
+|May 24 2024|Lecture 11|		|https://us06web.zoom.us/rec/share/PYr0Pli9UTqWR1pj5bPWrpITTlrfF51tSahENwKN5hl9Mp6CCTdJaK-oqt7QY-Y_.Nt1UAdAPuqCqyI1T|
+|May 25 2024|Lecture 12|		|https://us06web.zoom.us/rec/share/_eYKn708ZSRwiOBcpJVD0saopnmd8FFMW453snTLPvtXsLNfypM2wVTiG3mkgjsP.3IptgetKcfTomXP_|
+|May 30 2024|Lecture 13|		|https://us06web.zoom.us/rec/share/M21UM7TxDsfpqmk0Vor7F4BpvF5xMfhL6ztlavFfjjvc561Ly9OAwQ9Furx7g-9J.9cO_SgEozxUPGx44|
+|May 31 2024|Lecture 14|		|https://us06web.zoom.us/rec/share/1848eN0aNoBvnfUj382Q6J98iIhe0XN17fAv8FtWojcpBoGLcJt0ggPQT0A6KUXf.udmVwC0TtjL-I-Qy|
+|June 6 2024|Lecture 15|		|https://us06web.zoom.us/rec/share/EiTBvDxMwCip5HRDg0MOsa4Wg-wRMErHjp9doQB8BOgc8ma6EgAsvg7uqliZl4o.lSwLJQP_pfRyRhA2|
+|June 7 2024|Lecture 16|		|https://us06web.zoom.us/rec/share/J6z88PmSFojjRWzFzyRZUDzV_MdfG_Gbv5qDw9JN6PSuxnvBmu8UhgteYmLaR-bc.FYtrgKGehR3okrg9|
+|June 8 2024|Lecture 17|		|https://us06web.zoom.us/rec/share/85A4fwUsVrN9VhI8Z9cGFvusBuJ45gr0jOQ32VmBMjss5rG1B0pobukPXEbaa3wV.fg-PItUlLLOIRPq7|
+|June 13 2024|Lecture 18|		|https://us06web.zoom.us/rec/share/PCB28QsM4asSW0LQRMN14FHog19yuUPxnMgbxv8WxbCbkNOsnd43aU1NDgGhy1bZ.s7RNdAF2rasXks0T|
+|June 14 2024|Lecture 19|		|https://us06web.zoom.us/rec/share/No7CUy2oFjCBVMuC0l0hokjzh-J8TBsc39cQQxzdpIDgx4_wRL-9ABQPlFJDlM3z.4l57nBaQfA5gWbic|
+|June 15 2024|Lecture 20|		|https://us06web.zoom.us/rec/share/qNNfmm9GGvaEF9o-pm50Jn9FSWuuUMknoFmuofeJoroaaMBFCeCxUL_buRHOhjo.G45hXoR8qTLGc1pm|
+|June 20 2024|Lecture 21|		|https://us06web.zoom.us/rec/share/1PzXOopRqsthXQ5DGYHskr9QDjePZ0g7ryXLMwauo5tz8vZVrWuamsajlzMdiWMs.dwZaBzr-ck5cdiI_|
+|June 21 2024|Lecture 22|		|https://us06web.zoom.us/rec/share/E8xA_vGFce52iVSfQYUq76z16ML46y-7MKZ9IFluTaRjfIrbigkXtdAAYJxeE2a8.FzjUFix2eGuBRGxV|
+|June 27 2024|Lecture 23|		|https://us06web.zoom.us/rec/share/zJY6WPUDWqfbQ72iflFl5304rhToO1I9RdjfYlxjtNih7NIfcXD3jsJZ7XcYGMdS.AG6t6MhatZ0cCwDD|
+|June 28 2024|Lecture 24|		|https://us06web.zoom.us/rec/share/I055-0A0CjzT9M7BlUSRK4DK1wwPEGOEwYZF6ugKi6oIyqr0vc94-w4loe0ZVvzr.A1D--GpjP-tJHcfh|
+|July 4 2024|Lecture 25|		|https://us06web.zoom.us/rec/share/oTH-CIPz13NixRz9TZGhZgmEAcEbtT5Dt3Gka0g8z0F4YQ_XTkAmdIb-P9qR52Wh.lkWimb2OP-mTKZ-Z|
+|July 5 2024|Lecture 26|		|https://us06web.zoom.us/rec/share/YEQTQB7mGDd9DgUKG-q84jRgxCqOFbFSvwxB5OkLP6KH_V6Q65VxY113vdM0kSb3.hN435PvhgaYn_BHw|
+|July 6 2024|Lecture 27|		|https://us06web.zoom.us/rec/share/fbL_B1eB_kyfy5CzAltnF7vx-orlR_KKTwb9sHFNLd7bfqAbzxla3vOtJPve4cRO.YYO295iA-w_wOx_-|
+|July 11 2024|Lecture 28|		|https://us06web.zoom.us/rec/share/Ch5W3sUVCKQ1VGx4R94D76V0JBCzDDrIFuKWvy11eWtRW97a-mua-opSlEYr1I79.6e0YA8INM7zr8wOm|
+|July 12 2024|Lecture 29|		|https://us06web.zoom.us/rec/share/050TWV1bKU_WnqN1unBVn_vJN9zWi7ufKPl15Ua2y_wVjEHZdxUobiszC3nOIlFP.voyEqZyZJ9sEfPJd|
+|July 13 2024|Lecture 30|		|https://us06web.zoom.us/rec/share/Tk2kLxWCiLCM_t5uUQuJLAjB1TNhrz6pyF5RIlEEmJTONzG-MLTw8un-eqzJcfpN.dy12L8XOYuTnxMbp|
