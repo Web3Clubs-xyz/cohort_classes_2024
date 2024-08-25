@@ -33,4 +33,6 @@
 |July 10 2024|Lecture 31|Number Bases Implemented in Rust	|[https://youtu.be/jKTH7xB-VRA?si=DSq0vBwO8xETC8SX)|
 |July 11 2024|Lecture 32|Modular Arithmetic Implemented in Rust	|[https://youtu.be/cwlidXTpZRQ?si=UQ25-5-g5ZwGpzVC)|
 |July 15 2024|Lecture 33|      Fast Powering Algorithm Implemented in Rust	|[https://youtu.be/STldxSnDoK0?si=QEwSRQx4wWKK63v4](https://youtu.be/STldxSnDoK0?si=QEwSRQx4wWKK63v4)|
+|July 18 2024|Lecture 34|      Linear Congruence Implemented In Rust	|[https://youtu.be/TupPscVubbw?si=jOTpdxWlwc2uJUFh](https://youtu.be/TupPscVubbw?si=jOTpdxWlwc2uJUFh)|
+
 
