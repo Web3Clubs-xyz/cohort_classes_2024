@@ -27,9 +27,9 @@
 |June 17 2024|Lecture 25|Zero Knowledge Proofs Intro I	|[https://youtu.be/lHIbhzp_JKc?si=ttAEJwNC1XWY0dlB)|
 |June 18 2024|Lecture26|Zero Knowledge Proofs Intro  II|[https://us06web.zoom.us/rec/share/0YsaTFgwnWYHWd_6nKB8evmZZT6nakN-kTZ0Sb6nVo-snaduGqDnszodnw0UNEWp.NXFy8mUIT9Nv0zkG](https://us06web.zoom.us/rec/share/0YsaTFgwnWYHWd_6nKB8evmZZT6nakN-kTZ0Sb6nVo-snaduGqDnszodnw0UNEWp.NXFy8mUIT9Nv0zkG)|
 |June 20 2024|Lecture 27|Primitive Roots	|[https://youtu.be/5GWsvu1Yxz8?si=KbSkq2uOfvyj1SRe)|
-|June 24 2024|Lecture 28|Divisibility & Primality- Rust impl	|[https://us06web.zoom.us/rec/share/Wpc_lXcoPQjnOSwRWSKCmvBfBP3zVKCKw6MuaJZEh63tUh6_4x94BoOOa2aE5LR4.TgSMuM394zNT5pXx](https://us06web.zoom.us/rec/share/Wpc_lXcoPQjnOSwRWSKCmvBfBP3zVKCKw6MuaJZEh63tUh6_4x94BoOOa2aE5LR4.TgSMuM394zNT5pXx)|
-|July 1 2024|Lecture 29|Divisibility & Primality- Rust impl	|[https://us06web.zoom.us/rec/share/kWQHT7GZaAdb5O3axZMdKNgmIyuiS7iLlQpCtm08xeL99qHzTmMM0uVxYKhrWXfT.r2Cd7XmapfGXF4Cz](https://us06web.zoom.us/rec/share/kWQHT7GZaAdb5O3axZMdKNgmIyuiS7iLlQpCtm08xeL99qHzTmMM0uVxYKhrWXfT.r2Cd7XmapfGXF4Cz)|
-|July 8 2024|Lecture 30|Euclidian Algorithm & Extended Euclidian Algo in Rust	|[https://us06web.zoom.us/rec/share/-iB2jiSkrjEJfqJqb-bPCHDveo9icYmPAMf6SxheH8tZzi3dkJkpji2XhlclBTKU.qmLIEa7dzUv868am](https://us06web.zoom.us/rec/share/-iB2jiSkrjEJfqJqb-bPCHDveo9icYmPAMf6SxheH8tZzi3dkJkpji2XhlclBTKU.qmLIEa7dzUv868am)|
-|July 10 2024|Lecture 31|Number Bases Implemented in Rust	|[https://us06web.zoom.us/rec/share/Sek7k5nBzi3zxd5g_Tr6V7ycC9gKKt-vf0c7numyzHHxBhwV8ZZzC05GlPa-tYw4.BT8DkqrjFsHHviIv](https://us06web.zoom.us/rec/share/Sek7k5nBzi3zxd5g_Tr6V7ycC9gKKt-vf0c7numyzHHxBhwV8ZZzC05GlPa-tYw4.BT8DkqrjFsHHviIv)|
-|July 11 2024|Lecture 32|Modular Arithmetic Impl in Rust	|[https://us06web.zoom.us/rec/share/mrO8RXaLPPGzMBIVAlGRz_HJzGYpERin8aURgFT0FOEZ_SsQUD5HmS4WAi7UiZ03.XvTAE4cPHsbKulyx](https://us06web.zoom.us/rec/share/mrO8RXaLPPGzMBIVAlGRz_HJzGYpERin8aURgFT0FOEZ_SsQUD5HmS4WAi7UiZ03.XvTAE4cPHsbKulyx)|
-|July 15 2024|Lecture 33|      Fast Powering Algorithm Impl in Rust	|[https://us06web.zoom.us/rec/share/AnsUt4E6Mc7--1gQnFuYsz02zzkpOtdhwHXu0RHLNR7W0dwogsjZApVWG1sCA8om.U0aom8DtkRxBucic](https://us06web.zoom.us/rec/share/AnsUt4E6Mc7--1gQnFuYsz02zzkpOtdhwHXu0RHLNR7W0dwogsjZApVWG1sCA8om.U0aom8DtkRxBucic)|
+|June 24 2024|Lecture 28|Divisibility & Primality- Rust implementation	|[https://youtu.be/PmsQBc5wNig?si=cK1RzTBGrx5rAPV_)|
+|July 1 2024|Lecture 29|Rust Implementation Of Prime Factorization	|[https://youtu.be/lWoN0EcUZII?si=XT0T-qwYKN6Z5LmR)|
+|July 8 2024|Lecture 30|Rust Implementation Of Euclidean And Extended Euclidean	|[https://youtu.be/5sQWElKOj5o?si=CujDuDq1RUmxf2Xq)|
+|July 10 2024|Lecture 31|Number Bases Implemented in Rust	|[https://youtu.be/jKTH7xB-VRA?si=DSq0vBwO8xETC8SX)|
+|July 11 2024|Lecture 32|Modular Arithmetic Implemented in Rust	|[https://youtu.be/cwlidXTpZRQ?si=UQ25-5-g5ZwGpzVC)|
+|July 15 2024|Lecture 33|      Fast Powering Algorithm Implemented in Rust	|[https://youtu.be/STldxSnDoK0?si=QEwSRQx4wWKK63v4)|
