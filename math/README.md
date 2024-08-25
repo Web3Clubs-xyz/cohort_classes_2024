@@ -4,7 +4,7 @@ Find Recordings below.
 
 [Lecture notes](https://github.com/Web3Clubs-xyz/cohort_classes_2024/tree/main/math/Lecture_Notes_Math4Web3_2024)
 
-[Trainer's Class Code](https://github.com/cypriansakwa?tab=repositories)
+[Tutor's Class Code](https://github.com/cypriansakwa?tab=repositories)
 
 |Dates|Session|topics|Recording Link|
 |---|---|---|---|
