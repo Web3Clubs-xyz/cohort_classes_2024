@@ -2,7 +2,7 @@
 |---|---|---|---|
 |April 22 2024|Lecture 1|Basic Properties of Integers	|[https://youtu.be/tWuZltG1De8?si=O2wbMcbdcmBoDaB5](https://youtu.be/tWuZltG1De8?si=O2wbMcbdcmBoDaB5)|
 |April 23 2024|Lecture 2|Modular Arithmetic	|[https://youtu.be/zMC9hp8FPnU?si=EGCFJmbWScizQVNt](https://youtu.be/zMC9hp8FPnU?si=EGCFJmbWScizQVNt)|
-|April 25 2024|Lecture 3|	Foundational Mathematics |[https://us06web.zoom.us/rec/share/jgmNs27Rhx-TyLCQpaBzXc4kbDAzdJ2oC45_VG4YkmN5No2SObzDf-hI7PDXJlEi.dqoFOd92ev534tPy](https://youtu.be/yBFVhOIGE68?si=U1wHbFpcgQaj5Mc7)|
+|April 25 2024|Lecture 3|	Foundational Mathematics |[https://youtu.be/yBFVhOIGE68?si=U1wHbFpcgQaj5Mc7)|
 |April 29 2024|Lecture 4|Finding Inverses in Modular Arithmetics	|[https://youtu.be/n20P4-6zDQo?si=gj93d0MEfDsSlgqL](https://youtu.be/n20P4-6zDQo?si=gj93d0MEfDsSlgqL)|
 |April 30 2024|Lecture 5|Fermat's Little Theorem + Euler's Theorem	|[https://youtu.be/S7ERon8Lxd8?si=P4ODedk7wBP7pmAU](https://youtu.be/S7ERon8Lxd8?si=P4ODedk7wBP7pmAU)|
 |May 2 2024|Lecture 6|Primitive Roots & Discrete Logarithm Problem	|[https://us06web.zoom.us/rec/share/vBfXHyNUdz3RIWDL66kf9WWSmDmx4HicIutCN8H6rlkmeReq1DvuxjyX0JK-WdP5.kt64bVHac-GobRap](https://us06web.zoom.us/rec/share/vBfXHyNUdz3RIWDL66kf9WWSmDmx4HicIutCN8H6rlkmeReq1DvuxjyX0JK-WdP5.kt64bVHac-GobRap)|
