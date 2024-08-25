@@ -1,3 +1,9 @@
+Math cohort (Math4Web3) is a study into Foundational Mathematics for Programmable Cryptography. Implementations are in Rust. Key areas to be covered over the 12 months: Introduction to Mathematical Foundations, Abstract Algebra, Linear Algebra, Modular Arithmetic, Complexity Theory, Information Theory, Discrete Mathematics, Advanced Number Theory, Algorithmic Number Theory, Cryptographic Protocols(eg ZKPs, MPC, FHE…), Applied Cryptography Mathematics
+
+Find Recordings below.
+
+[Lecture notes](https://github.com/Web3Clubs-xyz/cohort_classes_2024/tree/main/math/Lecture_Notes_Math4Web3_2024)
+
 |Dates|Session|topics|Recording Link|
 |---|---|---|---|
 |April 22 2024|Lecture 1|Basic Properties of Integers	|[https://youtu.be/tWuZltG1De8?si=O2wbMcbdcmBoDaB5](https://youtu.be/tWuZltG1De8?si=O2wbMcbdcmBoDaB5)|
