@@ -34,5 +34,16 @@
 |July 11 2024|Lecture 32|Modular Arithmetic Implemented in Rust	|[https://youtu.be/cwlidXTpZRQ?si=UQ25-5-g5ZwGpzVC)|
 |July 15 2024|Lecture 33|      Fast Powering Algorithm Implemented in Rust	|[https://youtu.be/STldxSnDoK0?si=QEwSRQx4wWKK63v4](https://youtu.be/STldxSnDoK0?si=QEwSRQx4wWKK63v4)|
 |July 18 2024|Lecture 34|      Linear Congruence Implemented In Rust	|[https://youtu.be/TupPscVubbw?si=jOTpdxWlwc2uJUFh](https://youtu.be/TupPscVubbw?si=jOTpdxWlwc2uJUFh)|
+|July 22 2024|Lecture 35|      Finding Inverses In Modular Arithmetic Implemented In Rust	|[https://youtu.be/tK6NlZwmxGc?si=cKUA3ZSj84VJBXAr](https://youtu.be/tK6NlZwmxGc?si=cKUA3ZSj84VJBXAr)|
+|July 24 2024|Lecture 36|      Introduction To Algebraic Structures	|[https://youtu.be/_fAYf_MbVr4?si=8_2lrRfKkmYUjm_z](https://youtu.be/_fAYf_MbVr4?si=8_2lrRfKkmYUjm_z)|
+|July 25 2024|Lecture 37|      Multiplication Table For Set Of Integers Relatively Prime To A Given Modulus In Rust	|[https://youtu.be/qb9cRqR_KVQ?si=mSxuJidwuf7k4Hhk](https://youtu.be/qb9cRqR_KVQ?si=mSxuJidwuf7k4Hhk)|
+|July 29 2024|Lecture 38|      Order Of A Group Implemented In Rust	|[https://youtu.be/6ZLcjDxygFw?si=oY3oVfb4XIP5uewy](https://youtu.be/6ZLcjDxygFw?si=oY3oVfb4XIP5uewy)|
+|August 1 2024|Lecture 39|      Computing Inverses Of Elements Of A Group Implemented In Rust	|[https://youtu.be/ROmZpzVYGqQ?si=AAI36Tbi8lg_AhmL](https://youtu.be/ROmZpzVYGqQ?si=AAI36Tbi8lg_AhmL)|
+|August 5 2024|Lecture 40|      Introduction To Fully Homomorphic Cryptography (FHE)	|[https://youtu.be/TueWDUgn4lM?si=-HJuxUCHSigZQjGg](https://youtu.be/TueWDUgn4lM?si=-HJuxUCHSigZQjGg)|
+|August 7 2024|Lecture 41|      Exploring Zama AI Season 6 Bounty	|[https://youtu.be/UB36HgdztU0?si=EBnu6KH7dz304dV0](https://youtu.be/UB36HgdztU0?si=EBnu6KH7dz304dV0)|
+|August 12 2024|Lecture 42|      Order Of An Element Of A Group Implemented in Rust	|[https://youtu.be/3QVOkBYNfzg?si=vxXlhNK-fPPbpeog](https://youtu.be/3QVOkBYNfzg?si=vxXlhNK-fPPbpeog)|
+|August 15 2024|Lecture 43|      The Direct Product Groups Implemented in Rust	|[https://youtu.be/3WwuhfIzeKc?si=DgA5oit8Tlgn5Koi](https://youtu.be/3WwuhfIzeKc?si=DgA5oit8Tlgn5Koi)|
+|August 19 2024|Lecture 44|      Order Of An Element Of A Direct Product Group Implemented in Rust	|[https://youtu.be/1twYyS_mY5A?si=n6xRbefoYcVhUDxS](https://youtu.be/1twYyS_mY5A?si=n6xRbefoYcVhUDxS)|
+
 
 
